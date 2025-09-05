@@ -1,0 +1,8 @@
+streamlit
+requests
+feedparser
+streamlit-option-menu
+google-generativeai
+python-dotenv
+beautifulsoup4
+scikit-learn
