@@ -1,5 +1,7 @@
 # public_MDPM_web_application
-:  🧠 Multiple Disease Prediction System
+public_MDPM_web_application
+
+🧠 Multiple Disease Prediction System
 
 An AI-powered web application that predicts the likelihood of multiple diseases based on health parameters. By combining trained machine learning models with a user-focused interface, the project delivers health insights in real time, making early detection more accessible.
 
@@ -36,3 +38,5 @@ Lightweight, efficient, and easy to deploy
 Transparent and reliable machine learning integration
 
 💡 Developed during a hackathon, this project demonstrates how applied machine learning and modern web delivery can converge to provide practical healthcare insights. Beyond competition, it stands as an example of how AI can address meaningful problems in accessible ways.
+
+🌐 Deployed App: [Try it here](https://publicmdpmwebapplication-znzm3scbyspstaaxe3km3h.streamlit.app/)
